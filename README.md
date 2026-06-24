@@ -8,7 +8,7 @@
 - ⭐ 4★ Java on HackerRank
 - 🔥 100 Days Coding Streak on CodeChef
 - ☁️ AWS Virtual Internship Certified (AICTE Eduskills)
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **rakeshraparthi1438@gmail.com**
 - 💼 Goal: Secure an SDE role at top product-based companies
 
 <h3 align="left">🔗 Connect with Me</h3>
