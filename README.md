@@ -49,7 +49,7 @@ public class Rakesh implements SoftwareEngineer {
 <a href="mailto:rakeshraparthi1438@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/u/RakeshRaparthi001/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="https://www.hackerrank.com/" target="_blank">
